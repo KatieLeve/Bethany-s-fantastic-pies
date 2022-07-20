@@ -1,0 +1,7 @@
+@media only screen and (min-width: 1024px) {
+
+
+h1{color: yellow;}
+
+.large-3{width: 25%}
+} /* end of media query */
