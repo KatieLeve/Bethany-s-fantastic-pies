@@ -5,6 +5,7 @@ header img {height: 100px;}
 h1{color: green;}
 
 .medium-6 {width: 50%;}
+.medium-4 {width: 33.33333%}
 
 nav button {display: none;}
 nav ul {display: block;}
